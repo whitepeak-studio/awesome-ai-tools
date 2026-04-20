@@ -74,6 +74,7 @@ Each folder contains detailed descriptions, use cases, pros/cons, and API notes.
 ### 💻 Coding AI
 - GitHub Copilot
 - Cursor IDE
+- OpenMagic
 - Windsurf
 - Android Studio AI
 
