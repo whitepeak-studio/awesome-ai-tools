@@ -8,6 +8,7 @@ Perfect for developers, creators, indie app builders, and businesses.
 
 This repository is structured into categories:
 - Large Language Models (LLMs)
+- **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** - AI-powered coding toolbar for any web app. Captures element context, previews diffs, and applies approved changes through a reverse proxy.
 - On‑Device AI
 - Image Generation
 - Video AI
