@@ -86,6 +86,7 @@ Each folder contains detailed descriptions, use cases, pros/cons, and API notes.
 - Notion AI
 - Adobe Firefly
 - Rewind AI
+- [LandscapioAI](https://www.landscapioai.com/) - AI-powered landscape design tool for generating outdoor and garden design concepts.
 
 📂 `/productivity-ai`
 
