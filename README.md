@@ -85,6 +85,7 @@ Each folder contains detailed descriptions, use cases, pros/cons, and API notes.
 - Perplexity Pro Search
 - Notion AI
 - Adobe Firefly
+- [Orkas](https://orkas.ai?source=gh_whitetools) — Local-first desktop app for coordinating specialist agents and installed coding CLIs.
 - Rewind AI
 
 📂 `/productivity-ai`
