@@ -66,6 +66,7 @@ Each folder contains detailed descriptions, use cases, pros/cons, and API notes.
 - ElevenLabs v3
 - Azure Speech Studio
 - OpenAI Realtime Voice
+- [QuietTake Noise Remover](https://noiseremover.site/) — Free browser-local RNNoise speech cleanup with original/cleaned playback and WAV export, without signup or audio upload; up to 50 MB and five minutes per file.
 
 📂 `/voice-ai`
 
